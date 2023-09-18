@@ -1,0 +1,18 @@
+
+
+
+Настя Нестерова: 090
+Москва
+
+Анна Романова: 7788
+Питер
+
+/usr/bin/python3 /Users/veronicasafarian/Desktop/Pyton/Seminar8/Seminar8.py /usr/bin/python3 /Users/veronicasafarian/Desktop/Pyton/Seminar8/Seminar8.py: 
+
+
+нестерова,настя,090,москва,ть
+Нестерова,Настя,090,Москва,
+Ивлеева Дарья,098,Ростов,
+hha ahha,aha,anhan,
+gvg bjb,ihni,jubuj,
+ahah+ andbf,dnbvujf,dndm,
